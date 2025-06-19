@@ -10,6 +10,7 @@ const App = () => {
 
       <div className="menu-header">
         <div className="categories">
+            
           <span>All</span>
           <span>Drinks</span>
           <span>Pizza</span>
